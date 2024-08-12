@@ -1,5 +1,5 @@
 main {
-  background-image: url(../assets/images/background/intro.png);
+  background-image: url(/assets/images/Background_Intro.png);
   background-repeat: no-repeat;
   height: 750px;
   background-size: contain;
