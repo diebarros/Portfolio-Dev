@@ -17,7 +17,7 @@ Módulo prático de HTML e CSS do curso FullStack, promovido pela Rocketseat par
 <br>
 
 <p align="center">
-  <img alt="Travelgram" src="assets/thumbnail.png" width="100%">
+  <img alt="Travelgram" src="thumbnail.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
