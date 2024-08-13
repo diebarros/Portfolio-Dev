@@ -23,21 +23,6 @@ main {
           left: 52.5%;
           max-width: 32px;
         }
-        #circle {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          width: 96px;
-          height: 96px;
-          border-radius: 50%;
-          border: 2px solid var(--color-red);
-          img {
-            width: 87.27px;
-            border-radius: 50%;
-            object-fit: cover;
-            aspect-ratio: 1/1;
-          }
-        }
       }
       h1 {
         margin-bottom: 20px;
